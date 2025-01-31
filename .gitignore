@@ -16,6 +16,9 @@ target/
 # Log files generated during execution
 *.log
 
+# Scripts
+*.sh
+
 # Maven wrapper dependencies
 .mvn/
 !/.mvn/wrapper/maven-wrapper.jar
