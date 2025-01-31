@@ -4,6 +4,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Person emma = new Person("Emma", "lanza", "123456789", 1995);
+        System.out.println(emma.toString());
     }
 }
